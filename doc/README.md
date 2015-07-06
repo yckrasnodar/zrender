@@ -13,7 +13,7 @@ MVC核心封装实现图形仓库、视图渲染和交互控制：
 * shape : 图形实体，分而治之的图形策略，可定义扩展
 * tool : 绘画扩展相关实用方法，工具及脚手架
 
-![ZRender Architecture](doc/asset/img/zrender.png)
+![ZRender Architecture](../asset/img/zrender.png)
 
 特色
 ----
